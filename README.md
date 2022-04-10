@@ -7,8 +7,7 @@ A brief look at the data images and analysis (Please take a look at my notebook 
 
 ![Screen Shot 2022-04-10 at 10 34 55 AM](https://user-images.githubusercontent.com/33383546/162598758-70defc2a-4307-4e38-bab2-896c6150a376.png)
 
-![Screen Shot 2022-04-10 at 10 34 55 AM](https://user-images.githubusercontent.com/33383546/162598817-a1605c70-c2db-463b-83fb-8a2922bbb812.png)
-
+![Screen Shot 2022-04-10 at 10 38 57 AM](https://user-images.githubusercontent.com/33383546/162598833-8e9c31ee-8c06-44ef-ac36-36c95abf0a35.png)
 
 
 
